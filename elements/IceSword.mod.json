@@ -1,0 +1,29 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ice_sword",
+    "customModelName": "Normal",
+    "name": "Ice Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LaParticula"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.5,
+    "enchantability": 22,
+    "damageVsEntity": 10.0,
+    "usageCount": 147,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IceSwordMakeItemGlow"
+    }
+  }
+}
