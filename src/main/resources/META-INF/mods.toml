@@ -2,14 +2,14 @@ modLoader="javafml"
 loaderVersion="[31,)"
 
 [[mods]]
-modId="modslaparticulastarterpack"
+modId="laparticulastarterpack"
 version="1.0.0"
-displayName="ModsLaParticulaStarterPack"
+displayName="LaParticulaStarterPack"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="sombr, MCreator"
 
-[[dependencies.modslaparticulastarterpack]]
+[[dependencies.laparticulastarterpack]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"

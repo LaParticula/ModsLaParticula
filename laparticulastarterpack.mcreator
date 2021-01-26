@@ -7,8 +7,8 @@
     "en_us": {}
   },
   "workspaceSettings": {
-    "modid": "modslaparticulastarterpack",
-    "modName": "ModsLaParticulaStarterPack",
+    "modid": "laparticulastarterpack",
+    "modName": "LaParticulaStarterPack",
     "version": "1.0.0",
     "author": "sombr, MCreator",
     "websiteURL": "https://mcreator.net",
@@ -20,7 +20,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.modslaparticulastarterpack",
+    "modElementsPackage": "net.mcreator.laparticulastarterpack",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202000547520
